@@ -32,7 +32,7 @@ All plots update in real time when any filter or widget changes.
   ```bash
 penguin-insights-dashboard/
 │
-├── penguin_dashboard.ipynb # Main Jupyter Notebook (interactive dashboard)
+├── data-visualization.ipynb # Main Jupyter Notebook (interactive dashboard)
 ├── penguin_report/ # Auto-generated report folder
 │ ├── Penguin_Dashboard_Report_Custom.docx
 │ ├── scatter_custom.png
